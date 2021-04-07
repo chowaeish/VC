@@ -1,0 +1,6 @@
+data=pd.read_csv("parking.csv")
+Columns_name:data["columns"]
+ron and columns number: data.size()
+row numbers:1048548
+columns numbers:44
+size of data: 2.038.000 kb
